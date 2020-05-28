@@ -1,26 +1,34 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-
+import Header from './components/Header';
+import Discount from './Pages/Discount';
+import Voucher from './Pages/Voucher';
+import Home from './Pages/Home';
+import {
+    BrowserRouter as Router,
+    Switch,
+    Route,
+} from 'react-router-dom';
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return (
+        <div className="App" style={{backgroundColor: '#f3f3f3f3', textAlign:'center'}}>
+            <Router>
+                <Header/>
+                <Switch>
+                    <Route path="/discount">
+                        <Discount/>
+                    </Route>
+                    <Route path="/voucher">
+                        <Voucher></Voucher>
+                    </Route>
+                    <Route path="/">
+                        <Home/>
+                    </Route>
+                </Switch>
+            
+            </Router>
+            
+        </div>
+    );
 }
 
 export default App;

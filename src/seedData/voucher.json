@@ -1,0 +1,103 @@
+[
+    {
+        "title": "Giam gia 50%",
+        "startTime": "10/06/2020",
+        "endTime": "20/06/2020",
+        "field": "Đồ ăn",
+        "maxSaleOff" : 30000,
+        "minPriceOfOrder": 20000,
+        "kindOfPayment" : "AirPay",
+        "isAvailable":false
+    },{
+        "title": "Giam gia 50%",
+        "startTime": "10/06/2020",
+        "endTime": "20/06/2020",
+        "field": "Đồ điện tử",
+        "maxSaleOff" : 30000,
+        "minPriceOfOrder": 20000,
+        "kindOfPayment" : "AirPay",
+        "isAvailable": true
+    },{
+        "title": "Giam gia 50%",
+        "startTime": "10/06/2020",
+        "endTime": "20/06/2020",
+        "field": "Đồ gia dụng",
+        "maxSaleOff" : 30000,
+        "minPriceOfOrder": 20000,
+        "kindOfPayment" : "AirPay",
+        "isAvailable": false
+    },{
+        "title": "Giam gia 50%",
+        "startTime": "10/06/2020",
+        "endTime": "20/06/2020",
+        "field": "",
+        "maxSaleOff" : 30000,
+        "minPriceOfOrder": 20000,
+        "kindOfPayment" : "AirPay",
+        "isAvailable": true
+    },{
+        "title": "Giam gia 50%",
+        "startTime": "10/06/2020",
+        "endTime": "20/06/2020",
+        "field": "",
+        "maxSaleOff" : 30000,
+        "minPriceOfOrder": 20000,
+        "kindOfPayment" : "AirPay",
+        "isAvailable": true
+    },{
+        "title": "Giam gia 50%",
+        "startTime": "10/06/2020",
+        "endTime": "20/06/2020",
+        "field": "",
+        "maxSaleOff" : 30000,
+        "minPriceOfOrder": 20000,
+        "kindOfPayment" : "AirPay",
+        "isAvailable": true
+    },{
+        "title": "Giam gia 50%",
+        "startTime": "10/06/2020",
+        "endTime": "20/06/2020",
+        "field": "",
+        "maxSaleOff" : 30000,
+        "minPriceOfOrder": 20000,
+        "kindOfPayment" : "AirPay",
+        "isAvailable": true
+    },{
+        "title": "Giam gia 50%",
+        "startTime": "10/06/2020",
+        "endTime": "20/06/2020",
+        "field": "",
+        "maxSaleOff" : 30000,
+        "minPriceOfOrder": 20000,
+        "kindOfPayment" : "AirPay",
+        "isAvailable": true
+    },{
+        "title": "Giam gia 50%",
+        "startTime": "10/06/2020",
+        "endTime": "20/06/2020",
+        "field": "",
+        "maxSaleOff" : 30000,
+        "minPriceOfOrder": 20000,
+        "kindOfPayment" : "AirPay",
+        "isAvailable": true
+    },{
+        "title": "Giam gia 50%",
+        "startTime": "10/06/2020",
+        "endTime": "20/06/2020",
+        "field": "",
+        "maxSaleOff" : 30000,
+        "minPriceOfOrder": 20000,
+        "kindOfPayment" : "AirPay",
+        "isAvailable": true
+    },{
+        "title": "Giam gia 50%",
+        "startTime": "10/06/2020",
+        "endTime": "20/06/2020",
+        "field": "",
+        "maxSaleOff" : 30000,
+        "minPriceOfOrder": 20000,
+        "kindOfPayment" : "AirPay",
+        "isAvailable": true
+    }
+    
+]
