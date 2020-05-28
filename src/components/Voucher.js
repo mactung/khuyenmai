@@ -41,7 +41,6 @@ const VoucherWrapper = styled.div`
 `;
 
 export default function(props){
-    const {title, endTime,startTime, field, minPriceOfOrder, maxSaleOff, kindOfPayment} = props;
     return (
         <VoucherWrapper>
             <Content></Content>
